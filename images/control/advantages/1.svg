@@ -1,0 +1,15 @@
+<svg width="56" height="87" viewBox="0 0 56 87" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 5C1 2.79086 2.79086 1 5 1H43.2727H51C53.2091 1 55 2.79086 55 5V69.4451C55 71.6542 53.2091 73.4451 51 73.4451H5C2.79086 73.4451 1 71.6542 1 69.4451V5Z" fill="#00B398" stroke="#00587C" stroke-width="2"/>
+<path d="M9 19V15C9 13.8954 9.89543 13 11 13H15" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<rect x="9" y="27" width="39.6017" height="6.02839" rx="1" fill="#5EDAF8" stroke="#00587C" stroke-width="2"/>
+<line x1="9" y1="40" x2="47" y2="40" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<line x1="9" y1="46" x2="47" y2="46" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<line x1="9" y1="52" x2="47" y2="52" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<line x1="9" y1="58" x2="37" y2="58" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<line x1="9" y1="66" x2="20" y2="66" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<line x1="9" y1="72" x2="16" y2="72" stroke="#00587C" stroke-width="2" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.9381 69.2852H39.8359V86.0003L42.9381 84.2602L46.0402 86.0003V69.2852H42.9381Z" fill="white"/>
+<path d="M39.8359 69.2852V68.2852C39.2837 68.2852 38.8359 68.7329 38.8359 69.2852H39.8359ZM39.8359 86.0003H38.8359C38.8359 86.3553 39.0242 86.6838 39.3306 86.8632C39.637 87.0426 40.0155 87.0461 40.3252 86.8724L39.8359 86.0003ZM42.9381 84.2602L43.4273 83.388C43.1234 83.2176 42.7527 83.2176 42.4488 83.388L42.9381 84.2602ZM46.0402 86.0003L45.5509 86.8724C45.8606 87.0461 46.2391 87.0426 46.5455 86.8632C46.8519 86.6838 47.0402 86.3553 47.0402 86.0003H46.0402ZM46.0402 69.2852H47.0402C47.0402 68.7329 46.5924 68.2852 46.0402 68.2852V69.2852ZM39.8359 70.2852H42.9381V68.2852H39.8359V70.2852ZM40.8359 86.0003V69.2852H38.8359V86.0003H40.8359ZM42.4488 83.388L39.3467 85.1281L40.3252 86.8724L43.4273 85.1323L42.4488 83.388ZM42.4488 85.1323L45.5509 86.8724L46.5294 85.1281L43.4273 83.388L42.4488 85.1323ZM47.0402 86.0003V69.2852H45.0402V86.0003H47.0402ZM46.0402 68.2852H42.9381V70.2852H46.0402V68.2852Z" fill="#00587C"/>
+<circle cx="43" cy="70" r="6" fill="white" stroke="#00587C" stroke-width="2"/>
+<circle r="2" transform="matrix(1 0 0 -1 43 70)" fill="white" stroke="#00587C" stroke-width="2"/>
+</svg>
